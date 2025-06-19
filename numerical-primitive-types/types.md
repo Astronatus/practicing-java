@@ -1,3 +1,5 @@
+# Numeric Types
+
 ## byte 
 
 -128 to 128
@@ -28,22 +30,8 @@ Example: long nationalDebt = 34849081491943L;
 
 Example: float unitPrice = 4.99f
 
-
 ## double
 
 1.7e-308 to 1.7e+308 
 
 Example: double pi = 3.141592653589793;
-
-## char 
-
-alphabet, punc, numbers, etc
-
-Example: char grade = "C";
-
-## boolean
-
-true or false
-
-Example: boolean isZoned = true;
-
